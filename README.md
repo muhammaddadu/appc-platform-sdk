@@ -1,4 +1,4 @@
-# Appcelerator Platform SDK
+# Appcelerator Platform SDK [![Coverage Status](https://coverage.appcelerator.com/appcelerator/appc-platform-sdk/label_master.svg)](https://coverage.appcelerator.com/appcelerator#appc-platform-sdk)
 
 > This is a Node module that will allow you to make API requests to the Appcelerator Platform.
 
